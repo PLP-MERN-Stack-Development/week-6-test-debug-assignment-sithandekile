@@ -12,7 +12,7 @@ Implement comprehensive testing strategies for a MERN stack application, includi
 - Create a separate test database for integration tests
 - Implement test scripts in package.json for running different types of tests
 
-### Task 2: Unit Testing
+### Task 2: Unit Testing 
 - Write unit tests for utility functions in both client and server
 - Test React components in isolation using mocks for dependencies
 - Implement tests for Redux reducers and actions (if applicable)
